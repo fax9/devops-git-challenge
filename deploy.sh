@@ -1,3 +1,4 @@
+
 #!/bin/bash
-ENVIRONMENT="production"
+ENVIRONMENT="development-staging-env"
 echo "Deploying to $ENVIRONMENT..."
